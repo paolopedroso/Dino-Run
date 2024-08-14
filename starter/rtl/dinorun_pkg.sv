@@ -11,7 +11,6 @@ localparam int ObstacleInitialX = 640;
 
 typedef enum logic [1:0] {
     TITLE,
-    STARTING,
     RUNNING,
     HIT
 } state_t;

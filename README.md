@@ -94,7 +94,7 @@ To run the Dino Run game on your Basys 3 FPGA board, follow these steps:
 
 ## Conclusion
 
-This lab provided hands-on experience with designing and integrating various digital systems components on an FPGA. By completing this project, I developed a deeper understanding of state machines, VGA display control, and modular design in SystemVerilog. This project showcases my ability to tackle complex hardware design challenges and my proficiency in SystemVerilog, making it a valuable addition to my portfolio.
+This lab provided hands-on experience with designing and integrating various digital systems components on an FPGA. By completing this project, I developed a deeper understanding of state machines, VGA display control, and modular design in SystemVerilog. This project showcases my ability to tackle complex hardware design challenges and my proficiency in SystemVerilog.
 
 ---
 
